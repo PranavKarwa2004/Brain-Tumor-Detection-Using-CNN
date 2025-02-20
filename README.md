@@ -1,4 +1,3 @@
-```markdown
 # Brain Tumor Detection Using CNN
 
 ## Overview
@@ -20,6 +19,7 @@ The dataset consists of MRI images labeled as **tumor** and **non-tumor**. It is
 
 ## Model Architectures
 The following CNN architectures are implemented:
+
 ### 1. **VGG16**
 - A 16-layer deep CNN known for its simplicity and efficiency.
 - Pretrained on ImageNet and fine-tuned for brain tumor classification.
@@ -32,7 +32,6 @@ The following CNN architectures are implemented:
 - A lightweight yet powerful CNN designed for optimal performance.
 - Balances depth, width, and resolution efficiently.
 
-
 ## Dependencies
 Ensure you have the following Python libraries installed:
 - TensorFlow/Keras
@@ -42,13 +41,14 @@ Ensure you have the following Python libraries installed:
 - Scikit-learn
 
 ## Model Training & Evaluation
-1. **Train the Model**:
-   - Load the dataset.
-   - Perform preprocessing.
-   - Train different CNN architectures.
-2. **Evaluate Performance**:
-   - Calculate accuracy, loss, and confusion matrix.
-   - Visualize predictions and misclassified cases.
+### 1. **Train the Model**
+- Load the dataset.
+- Perform preprocessing.
+- Train different CNN architectures.
+
+### 2. **Evaluate Performance**
+- Calculate accuracy, loss, and confusion matrix.
+- Visualize predictions and misclassified cases.
 
 ## Results
 The trained models achieve high accuracy in classifying brain tumor images. Comparative performance metrics for different CNN architectures are analyzed in the results section.
@@ -71,5 +71,4 @@ This project is licensed under the MIT License.
 
 ---
 Feel free to contribute by submitting pull requests or reporting issues!
-```
 
