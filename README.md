@@ -59,8 +59,9 @@ The trained models achieve high accuracy in classifying brain tumor images. Comp
 - Improving dataset size and diversity.
 
 ## Contributors
-- [Pranav Karwa](https://github.com/PranavKarwa2004) - Project Lead
-
+- [Pranav Karwa](https://github.com/PranavKarwa2004) 
+- [Nabhya Sharma](https://github.com/NabhyaIoT2026)
+- [Aniruddha Bolakhe](https://github.com/AniruddhaBolakhe)
 ## License
 This project is licensed under the MIT License.
 
