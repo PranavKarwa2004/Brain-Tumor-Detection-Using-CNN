@@ -1,7 +1,7 @@
 # Brain Tumor Detection Using CNN
 
 ## Overview
-This project focuses on detecting brain tumors using Convolutional Neural Networks (CNN). The model is trained using deep learning architectures such as **VGG16, InceptionV3, and EfficientNetB0** to classify MRI images into categories of tumor and non-tumor. The aim is to provide an efficient and accurate diagnosis system that can assist medical professionals.
+This project focuses on detecting brain tumors using Convolutional Neural Networks (CNN). The model is trained using deep learning architectures such as **VGG16, InceptionV3, and ResNet50** to classify MRI images into categories of tumor and non-tumor. The aim is to provide an efficient and accurate diagnosis system that can assist medical professionals.
 
 ## Features
 - **Deep Learning-Based Detection**: Uses CNN architectures for tumor classification.
