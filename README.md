@@ -1,5 +1,10 @@
 # Brain Tumor Detection Using CNN
 
+## Contributors
+- [Pranav Karwa](https://github.com/PranavKarwa2004) 
+- [Nabhya Sharma](https://github.com/NabhyaIoT2026)
+- [Aniruddha Bolakhe](https://github.com/AniruddhaBolakhe)
+
 ## Overview
 This project focuses on detecting brain tumors using Convolutional Neural Networks (CNN). The model is trained using deep learning architectures such as **VGG16, InceptionV3, and ResNet50** to classify MRI images into categories of tumor and non-tumor. The aim is to provide an efficient and accurate diagnosis system that can assist medical professionals.
 
@@ -58,10 +63,6 @@ The trained models achieve high accuracy in classifying brain tumor images. Comp
 - Deploying as a web application for real-time detection.
 - Improving dataset size and diversity.
 
-## Contributors
-- [Pranav Karwa](https://github.com/PranavKarwa2004) 
-- [Nabhya Sharma](https://github.com/NabhyaIoT2026)
-- [Aniruddha Bolakhe](https://github.com/AniruddhaBolakhe)
 ## License
 This project is licensed under the MIT License.
 
